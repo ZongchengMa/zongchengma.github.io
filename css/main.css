@@ -1880,7 +1880,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #6c479f;
+  background: #41bf22;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2979,9 +2979,8 @@ pre .deletion {
 .sidebar-toggle {
   right: 10px;
   bottom: 100px;
-  background-color: rgba(247,149,51,0.75);
+  background-color: rgba(242,45,76,0.75);
   border-radius: 5px;
-  box-shadow: 0px 0px 10px 0px rgba(2,26,76,0.35);
 }
 .page-post-detail .sidebar-toggle-line {
   background: #07b39b;
@@ -2993,12 +2992,11 @@ pre .deletion {
   padding-left: 5px;
   padding-top: 2.5px;
   padding-bottom: 2.5px;
-  background-color: rgba(247,149,51,0.75);
+  background-color: rgba(242,45,76,0.75);
   border-radius: 5px;
-  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.35);
 }
 .back-to-top.back-to-top-on {
-  bottom: 10px;
+  bottom: 70px;
 }
 .sidebar {
   box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.5);
